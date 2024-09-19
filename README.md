@@ -27,11 +27,10 @@
 ### 🌐下载地址 : 
 
 Mac版：
-线路1: https://drfs.ctcontents.com/file/311100/1363062667/831a3a/click_helper/click-helper.app.zip
+线路1: https://url00.ctfile.com/f/311100-1363062667-386c01?p=5538 (访问密码: 5538)
 
 Windows版: 
-线路1: https://drfs.ctcontents.com/file/311100/1363064116/d46a16/click_helper/click-helper.exe
-
+线路1: https://url00.ctfile.com/f/311100-1363065601-f32d89?p=5538 (访问密码: 5538)
  📞   
 后面升级，需要免费拿的进TG：  
 #### 电报群： 
