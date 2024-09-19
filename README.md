@@ -27,9 +27,10 @@
 ### 🌐下载地址 : 
 
 Mac版：
+线路1: https://drfs.ctcontents.com/file/311100/1363062667/831a3a/click_helper/click-helper.app.zip
 
 Windows版: 
-
+线路1: https://drfs.ctcontents.com/file/311100/1363064116/d46a16/click_helper/click-helper.exe
 
  📞   
 后面升级，需要免费拿的进TG：  
