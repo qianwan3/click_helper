@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	myApp := app.New()
+	myApp := app.NewWithID("com.clickhelper.app")
 	myWindow := myApp.NewWindow("Click Helper V1.2.0")
 	global.MainWindow = myWindow
 	myWindow.SetMainMenu(view.MainMenu(myApp, myWindow))

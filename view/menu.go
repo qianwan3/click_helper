@@ -12,7 +12,7 @@ func MainMenu(myApp fyne.App, myWin fyne.Window) *fyne.MainMenu {
 func AboutMenu(win fyne.Window) *fyne.Menu {
 	return fyne.NewMenu("Help",
 		fyne.NewMenuItem("About", func() {
-			info := dialog.NewInformation("About", "Version 1.0", win)
+			info := dialog.NewInformation("About", "Version 1.2.0", win)
 			info.Resize(fyne.NewSize(200, 200))
 			info.Show()
 		}),

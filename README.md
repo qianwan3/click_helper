@@ -41,4 +41,3 @@ Windows版:
 clickheplersoft@gmail.com
 
 后面完成版本都在群里发，谢谢理解！  
-
